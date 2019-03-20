@@ -391,7 +391,7 @@ footer>ul>a:hover {
         color: #E74C3C;
     }
 
-    nav{
+    nav {
         position: fixed;
         width: 100%;
         right: 0;
@@ -410,11 +410,11 @@ footer>ul>a:hover {
         text-align: right;
     }
 
-    nav ul li{
+    nav ul li {
         padding: 20px 0px;
     }
 
-    nav ul li:last-child{
+    nav ul li:last-child {
         padding-right: 25px;
     }
 }
